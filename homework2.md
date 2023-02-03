@@ -10,6 +10,6 @@
 
 * __git merge branch_name__ - команда, сливающая текущую ветку с веткой *branch_name*
 
-* __git branch -d branch_name* - команда, удаляющая ветку *branch_name*
+* __git branch -d *branch_name*__ - команда, удаляющая ветку *branch_name*
 
 ## Конфликты
